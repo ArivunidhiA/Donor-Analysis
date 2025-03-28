@@ -56,4 +56,4 @@ The analytics provided by this dashboard enabled targeted re-engagement campaign
 This project is available for review and educational purposes. The data has been synthesized and does not represent actual donor information.
 
 ## 📬 Contact
-For questions about this dashboard implementation, please reach out via GitHub or connect on [LinkedIn](your-linkedin-profile). Let's chat about data! 💬
+For questions about this dashboard implementation, please reach out via GitHub or connect on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/arivunidhi-anna-arivan/)). Let's chat about data! 💬
