@@ -3,7 +3,7 @@
 ## 🌟 Overview
 This interactive Power BI dashboard provides comprehensive analytics on donor data, tracking donation trends, donor lifetime value, and retention metrics. It was developed to monitor fundraising performance and measure the impact of re-engagement campaigns, which successfully increased donor retention by 22%! 🚀
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](1.mp4)
 
 ## ✨ Features
 - **🔍 Interactive Visualizations**: Drill-down capabilities to explore data at different levels
